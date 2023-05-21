@@ -1,5 +1,7 @@
-* Omar Ghanayem - Software Engineer
-* You can contact me at [omar.mohd.ghanayem@gmail.com](mailto:omar.mohd.ghanayem@gmail.com) ✉️
+### Hey There! 👋
+🎓 I'm a Software Engineer<br>
+🧑🏻‍🎓 Bachelor degree in Computer Systems Engineering at Arab American University<br>
+✉️ You can contact me at [omar.mohd.ghanayem@gmail.com](mailto:omar.mohd.ghanayem@gmail.com) 
 
 
 ### Skills
@@ -14,5 +16,7 @@
 <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
+ <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 </p>
  
