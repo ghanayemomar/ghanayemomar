@@ -1,4 +1,6 @@
-* ✉️  You can contact me at [omar.mohd.ghanayem@gmail.com](mailto:omar.mohd.ghanayem@gmail.com)
+*  Software Engineer
+*  ✉️  You can contact me at [omar.mohd.ghanayem@gmail.com](mailto:omar.mohd.ghanayem@gmail.com)
+*
 
 ### Skills
 
